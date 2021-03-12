@@ -57,5 +57,8 @@
     "webrtc",
     "ion",
     "js"
-  ]
+  ],
+  "publishConfig": {
+	  "access": "public"
+  }
 }
