@@ -1,6 +1,6 @@
 {
   "name": "@roomservice/ion-sdk-js",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "A js sdk for ion sfu",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -59,6 +59,6 @@
     "js"
   ],
   "publishConfig": {
-	  "access": "public"
+    "access": "public"
   }
 }
